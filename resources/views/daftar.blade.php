@@ -45,8 +45,8 @@
             <div class="form-group">
                 <label>Mendaftar Sebagai</label>
                 <select name="role" required>
-                    <option value="mahasiswa">Mahasiswa (Pelamar)</option>
-                    <option value="kaprodi">Dosen / Kaprodi (Pemberi Kerja)</option>
+                    <option value="mahasiswa">Mahasiswa </option>
+                    <option value="kaprodi">Dosen / Kaprodi </option>
                 </select>
             </div>
             <div class="form-group">
